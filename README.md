@@ -140,6 +140,6 @@ Dentro de una carpeta específica para este entorno (recomendable), ejecutar est
  
 *De esta manera, cualquier error o duda emergente es muy probable que exista en el apartado de Issues del repositario original.*
 
-### ***Lo queda comenzar con la libreta de Jupyter demo.ipynb y ejecutarla.***
+### ***Únicamente queda comenzar con la libreta de Jupyter demo.ipynb y ejecutarla.***
  
 ## Listos? Vamos!
