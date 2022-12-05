@@ -142,4 +142,4 @@ Dentro de una carpeta específica para este entorno (recomendable), ejecutar est
 
 ### ***Únicamente queda comenzar con la libreta de Jupyter demo.ipynb y ejecutarla.***
  
-## Listos? Vamos!
+## List@s? Vamos!
