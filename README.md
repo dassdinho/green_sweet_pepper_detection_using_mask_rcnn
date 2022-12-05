@@ -139,5 +139,7 @@ Dentro de una carpeta específica para este entorno (recomendable), ejecutar est
  ![cc (2)](https://user-images.githubusercontent.com/107544707/205518299-f0a9c71a-927b-49ee-bace-76551d30e6bc.JPG)
  
 *De esta manera, cualquier error o duda emergente es muy probable que exista en el apartado de Issues del repositario original.*
+
+### ***Lo queda comenzar con la libreta de Jupyter demo.ipynb y ejecutarla.***
  
 ## Listos? Vamos!
